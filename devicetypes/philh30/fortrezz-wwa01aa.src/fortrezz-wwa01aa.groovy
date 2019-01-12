@@ -1,4 +1,5 @@
-﻿/**
+﻿
+/**
  *  Device Handler for Fortrezz WWA-01AA Temperature and Leak Sensor
  *
  *  Copyright 2015 SmartThings
